@@ -30,7 +30,7 @@
                              text_sel="#ffffff"
                              show_shaded="TRUE"
                              shadetop="0"
-                             shadedown="-12">
+                             shadedown="-8">
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
@@ -306,10 +306,10 @@
                    outline_width="1">
         <space>
           <ThemeSpaceGradient title="#363636"
-                              text="#000000"
+                              text="#efefef"
                               text_hi="#f5f5f5"
                               header="#363636"
-                              header_text="#000000"
+                              header_text="#c3c3c3"
                               header_text_hi="#ffffff"
                               button="#3636367f"
                               button_title="#c3c3c3"
@@ -757,14 +757,14 @@
       <ThemeNodeEditor gp_vertex="#000000"
                        gp_vertex_select="#ff8500"
                        gp_vertex_size="3"
-                       node_selected="#f15800"
-                       node_active="#ffaa40"
+                       node_selected="#ffffff"
+                       node_active="#66d9ef"
                        wire="#000000"
-                       wire_inner="#737373"
+                       wire_inner="#a0b93f"
                        wire_select="#ffffff"
                        selected_text="#7f7070"
-                       node_backdrop="#9b9b9ba0"
-                       converter_node="#686a75"
+                       node_backdrop="#2020205f"
+                       converter_node="#fd971f"
                        color_node="#6c696f"
                        group_node="#69756e"
                        group_socket_node="#dfca35"
@@ -772,12 +772,12 @@
                        matte_node="#977474"
                        distor_node="#749797"
                        noodle_curving="5"
-                       input_node="#646464"
-                       output_node="#646464"
+                       input_node="#f92672"
+                       output_node="#a6e22e"
                        filter_node="#6c696f"
                        vector_node="#6c696f"
                        texture_node="#6c696f"
-                       shader_node="#6c696f"
+                       shader_node="#66d9ef"
                        script_node="#6c696f"
                        pattern_node="#6c696f"
                        layout_node="#6c696f">
