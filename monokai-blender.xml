@@ -322,7 +322,7 @@
             <gradients>
               <ThemeGradientColors show_grad="FALSE"
                                    gradient="#000000"
-                                   high_gradient="#1f1f1f">
+                                   high_gradient="#434343">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
