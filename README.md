@@ -10,6 +10,12 @@ Goes well with your code editor!
 
 ![ss3](ss3.png)
 
+## Comparison with default
+
+![comp1](comp1.png)
+
+![comp2](comp2.png)
+
 ## Features
 - Monokai's strength : Dark yet fruity and playful. Can't live without!
 - I have avoided using 100% white texts.
